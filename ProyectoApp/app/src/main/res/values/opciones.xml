@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="combo_tipo">
+        <item>Seleccione tipo</item>
+        <item>Bebidas</item>
+        <item>Comida rapida</item>
+        <item>Postres</item>
+        <item>Panes</item>
+        <item>Verduras</item>
+        <item>Frutas</item>
+        <item>Dulces</item>
+    </string-array>
+</resources>
